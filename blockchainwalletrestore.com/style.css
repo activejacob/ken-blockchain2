@@ -1,0 +1,129 @@
+/*! CSS Used from: Embedded */
+body,#app,#app > div{padding:0;margin:0;height:100%;}
+body{background-color:rgb(18, 29, 51);overflow:hidden;}
+::-webkit-scrollbar{display:none;}
+*{scrollbar-width:none;-ms-overflow-style:none;-webkit-font-smoothing:antialiased;}
+.grecaptcha-badge{visibility:hidden;}
+/*! CSS Used from: Embedded */
+.ixijk{width:auto;height:24px;}
+.bzateK{font-family:Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;font-size:16px;font-weight:500;color:rgb(0, 82, 198);text-transform:none;text-decoration:none;cursor:pointer;}
+.bzateK:hover{color:rgb(0, 80, 192);}
+.bzateK:focus{text-decoration:none;}
+.ecJsZh{font-family:Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;font-size:14px;font-weight:500;color:rgb(152, 161, 178);text-transform:none;text-decoration:none;cursor:pointer;}
+.ecJsZh:hover{color:rgb(152, 161, 178);}
+.ecJsZh:focus{text-decoration:none;}
+.ixOYeY{font-family:Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;font-size:16px;font-weight:600;color:rgb(0, 83, 199);text-transform:none;text-decoration:none;cursor:pointer;}
+.ixOYeY:hover{color:rgb(12, 108, 242);}
+.ixOYeY:focus{text-decoration:none;}
+.cHKfSC{-webkit-font-smoothing:antialiased;cursor:inherit;display:flex;}
+.cHKfSC::before{font-family:icomoon, sans-serif;content:"";}
+.koDvea{-webkit-font-smoothing:antialiased;cursor:pointer;display:flex;}
+.koDvea::before{font-family:icomoon, sans-serif;content:"";}
+.hLxhAA{font-family:Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;font-weight:500;font-size:16px;line-height:inherit;text-transform:none;font-style:normal;color:rgb(152, 161, 178);cursor:inherit;display:block;opacity:1;}
+.gFCRIM{font-family:Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;font-weight:500;font-size:14px;line-height:inherit;text-transform:none;font-style:normal;color:rgb(18, 29, 51);cursor:pointer;display:block;opacity:1;}
+.iVtkAS{font-family:Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;font-weight:500;font-size:12px;line-height:1.5;text-transform:none;font-style:normal;color:rgb(103, 113, 132);cursor:inherit;display:block;opacity:1;}
+.dZiTwf{font-family:Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;font-weight:500;font-size:16px;line-height:inherit;text-transform:none;font-style:normal;color:rgb(103, 113, 132);cursor:inherit;display:block;opacity:1;}
+.BCruu{font-family:Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;font-weight:600;font-size:16px;line-height:1.5;text-transform:none;font-style:normal;color:rgb(18, 29, 51);cursor:inherit;display:block;opacity:1;}
+.jPqPHm{font-family:Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;font-weight:500;font-size:14px;line-height:1.5;text-transform:none;font-style:normal;color:rgb(103, 113, 132);cursor:inherit;display:block;opacity:1;}
+.edfwkt{font-family:Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;font-weight:600;font-size:16px;line-height:inherit;text-transform:none;font-style:normal;color:rgba(255, 255, 255, 0.9);cursor:inherit;display:block;opacity:1;}
+.cguRtB{font-family:Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;font-weight:500;font-size:12px;line-height:inherit;text-transform:none;font-style:normal;color:rgb(217, 59, 48);cursor:inherit;display:block;opacity:1;}
+.gqApeS{display:flex;flex-direction:row;-webkit-box-pack:center;justify-content:center;-webkit-box-align:center;align-items:center;width:100%;min-width:140px;height:48px;padding:10px 15px;box-sizing:border-box;text-align:center;text-decoration:none;vertical-align:middle;letter-spacing:normal;transition:all 0.2s ease-in-out 0s;white-space:nowrap;line-height:1;text-transform:none;font-family:Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;font-size:14px;font-weight:600;cursor:pointer;opacity:1;color:rgb(255, 255, 255);background-color:rgba(25, 107, 222, 0.627);border-radius:8px;border-style:solid;border-width:1px;border-color:rgb(12, 108, 242);}
+.gqApeS:focus{outline:0px;}
+.kXiRmv{display:inline-flex;text-transform:none;position:relative;}
+.kyfudT{display:inline-flex;flex-direction:row;-webkit-box-pack:center;justify-content:center;-webkit-box-align:center;align-items:center;cursor:pointer;width:inherit;font-size:16px;font-weight:600;}
+.kyfudT > *{color:rgb(152, 161, 178)!important;}
+.kPtlNs{display:inline;font-family:Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;}
+.csAZWy{margin-left:4px;font-weight:600;}
+.jxbiXh{background-clip:padding-box;background-color:rgb(255, 255, 255);border:1px solid rgb(240, 242, 247);border-radius:4px;box-shadow:rgba(0, 0, 0, 0.176) 0px 6px 12px;display:none;float:none;height:auto;width:inherit;line-height:20px;list-style:outside none none;margin:2px 0px;max-height:230px;min-width:20px;overflow:auto;padding:5px 0px;position:absolute;left:0px;top:auto;bottom:25px;z-index:10;}
+.gPmVSj{color:rgb(53, 63, 82);cursor:pointer;padding:3px 20px;font-family:Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;font-size:14px;font-weight:400;text-align:left;text-size-adjust:100%;white-space:nowrap;}
+.gPmVSj:hover{color:rgb(12, 108, 242);}
+.rmiWH{display:block;width:100%;height:48px;min-height:48px;padding:6px 12px;box-sizing:border-box;font-size:16px;font-weight:500;color:rgb(53, 63, 82);background-color:rgb(255, 255, 255);font-family:Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;background-image:none;outline-width:0px;user-select:text;border:1px solid rgb(0, 81, 195);border-radius:8px;}
+.rmiWH:focus{border:1px solid rgb(0, 81, 195);}
+.rmiWH:focus::-webkit-input-placeholder{opacity:0.25;}
+.rmiWH:focus::placeholder{opacity:0.25;}
+.rmiWH::-webkit-input-placeholder{color:rgb(152, 161, 178);font-size:14px;font-weight:500;}
+.rmiWH::placeholder{color:rgb(152, 161, 178);font-size:14px;font-weight:500;}
+.rmiWH:disabled{cursor:not-allowed;background-color:rgb(223, 227, 235);border:1px solid transparent;}
+.Pbjyv{display:flex;width:100%;-webkit-box-align:center;align-items:center;position:relative;}
+.jsaLiz{position:absolute;display:flex;flex-direction:column-reverse;-webkit-box-pack:start;justify-content:flex-start;align-items:flex-start;z-index:1050;}
+@media (max-width: 768px){
+.jsaLiz{bottom:10px;right:10px;width:95%;}
+}
+@media (min-width: 769px){
+.jsaLiz{top:65px;right:22px;width:auto;}
+}
+.iYmkSU{display:inline-flex;cursor:pointer;}
+.hWrRHk{margin-top:4px;margin-left:16px;margin-right:16px;}
+.duROsR{padding:2rem 2rem 0px;}
+.eRwMnm{display:flex;padding-left:24px;-webkit-box-align:center;align-items:center;width:250px;}
+@media (max-width: 992px){
+.eRwMnm{width:200px;padding-left:0px;}
+}
+@media (max-width: 768px){
+.eRwMnm{width:auto;}
+}
+.fqcfFD{width:100%;height:112px;margin:0px auto;background-color:rgb(18, 29, 51);}
+.dAplau{position:relative;display:flex;flex-direction:row;-webkit-box-pack:justify;justify-content:space-between;-webkit-box-align:center;align-items:center;width:100%;height:100%;background-color:inherit;}
+.keymTm{padding:0px 16px;box-sizing:border-box;background-color:rgb(18, 29, 51);background-image:url(https://login.blockchain.com/img/bg-pattern.svg);}
+.fZGLfX{display:flex;flex-direction:row;width:100%;-webkit-box-pack:center;justify-content:center;padding-left:0px;}
+.eUHyrp{width:240px;display:block;}
+@media (max-width: 768px){
+.eUHyrp{width:200px;}
+}
+.dEqgcI{display:flex;flex-direction:row;-webkit-box-pack:center;justify-content:center;-webkit-box-align:center;align-items:center;}
+.cEsGIp{display:flex;flex-direction:row;-webkit-box-pack:center;justify-content:center;-webkit-box-align:center;align-items:center;}
+.bNdRWo{display:flex;-webkit-box-pack:center;justify-content:center;-webkit-box-align:center;align-items:center;flex-direction:column;width:100%;margin:6rem 0px 2rem;}
+@media (max-width: 480px){
+.bNdRWo{flex-direction:column;margin-top:8px;}
+}
+.kHUHoV{background-color:rgb(18, 29, 51);height:auto;min-height:100%;width:100%;overflow:auto;}
+@media (min-width: 769px){
+.kHUHoV{display:flex;flex-direction:column;-webkit-box-align:center;align-items:center;height:100%;}
+.kHUHoV > div:last-child{margin-top:auto;}
+}
+.iipqGY{position:relative;width:100%;}
+.igMhRt{display:flex;flex-direction:column;-webkit-box-pack:center;justify-content:center;-webkit-box-align:center;align-items:center;z-index:1;max-width:100%;box-sizing:border-box;margin:0px 16px;}
+.dwMwNT{width:100%;}
+.hueRjo{display:flex;-webkit-box-align:center;align-items:center;}
+.uKLDO{border-radius:8px;box-sizing:border-box;background-color:rgb(255, 255, 255);box-shadow:rgba(0, 0, 0, 0.21) 0px 2px 8px 0px;width:480px;padding:24px 0px;}
+@media (max-width: 768px){
+.uKLDO{width:100%;}
+}
+@media (max-width: 480px){
+.uKLDO{padding:20px;}
+}
+@media (max-width: 480px){
+.uKLDO{padding:16px 0px;}
+}
+.hWCwER{padding:0px 32px;}
+@media (max-width: 480px){
+.hWCwER{padding:0px 16px;}
+}
+.RMlHu{display:flex;-webkit-box-pack:center;justify-content:center;margin-top:24px;border-top:1px solid rgb(240, 242, 247);padding:0px;}
+@media (max-width: 480px){
+.RMlHu{flex-direction:column;-webkit-box-align:center;align-items:center;}
+}
+.gJMSei{display:flex;-webkit-box-align:center;align-items:center;}
+@media (max-width: 480px){
+.gJMSei{flex-direction:column;-webkit-box-align:center;align-items:center;}
+}
+.hCdhjL{margin-top:16px;cursor:pointer;}
+@media (max-width: 480px){
+.hCdhjL{margin-top:0px;}
+}
+.hCdhjL:hover{font-weight:600;}
+.gQScoJ{position:relative;display:flex;flex-direction:column;-webkit-box-pack:end;justify-content:flex-end;align-items:flex-start;width:100%;height:48px;}
+.bFQIgX{position:absolute;display:block;top:-20px;left:initial;bottom:initial;right:0px;height:15px;}
+.kPOQZP{display:flex;flex-direction:column;}
+/*! CSS Used fontfaces */
+@font-face{font-family:Inter;src:url(https://login.blockchain.com/fonts/Inter-Thin.woff2) format("woff2");font-weight:100;font-style:normal;font-stretch:normal;}
+@font-face{font-family:Inter;src:url(https://login.blockchain.com/fonts/Inter-ExtraLight.woff2) format("woff2");font-weight:200;font-style:normal;font-stretch:normal;}
+@font-face{font-family:Inter;src:url(https://login.blockchain.com/fonts/Inter-Light.woff2) format("woff2");font-weight:300;font-style:normal;font-stretch:normal;}
+@font-face{font-family:Inter;src:url(https://login.blockchain.com/fonts/Inter-Medium.woff2) format("woff2");font-weight:500;font-style:normal;font-stretch:normal;}
+@font-face{font-family:Inter;src:url(https://login.blockchain.com/fonts/Inter-Regular.woff2) format("woff2");font-weight:400;font-style:normal;font-stretch:normal;}
+@font-face{font-family:Inter;src:url(https://login.blockchain.com/fonts/Inter-SemiBold.woff2) format("woff2");font-weight:600;font-style:normal;font-stretch:normal;}
+@font-face{font-family:Inter;src:url(https://login.blockchain.com/fonts/Inter-ExtraBold.woff2) format("woff2");font-weight:800;font-style:normal;font-stretch:normal;}
+@font-face{font-family:Inter;src:url(https://login.blockchain.com/fonts/Inter-Bold.woff2) format("woff2");font-weight:700;font-style:normal;font-stretch:normal;}
+@font-face{font-family:Inter;src:url(https://login.blockchain.com/fonts/Inter-Black.woff2) format("woff2");font-weight:900;font-style:normal;font-stretch:normal;}
+@font-face{font-family:Inter;src:url(https://login.blockchain.com/fonts/Inter-BlackItalic.woff2) format("woff2");font-weight:900;font-style:normal;font-stretch:normal;}
+@font-face{font-family:icomoon;src:url(https://login.blockchain.com/fonts/icomoon.eot#iefix) format("embedded-opentype"), url(https://login.blockchain.com/fonts/icomoon.ttf) format("truetype"), url(https://login.blockchain.com/img/icomoon.svg?a4739251d3) format("svg");font-weight:normal;font-style:normal;font-stretch:normal;}
